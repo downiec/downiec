@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-I'm currently working full time as a software developer for LLNL. Some of my work is public and open source, here are the stats:
+I'm currently working full time as a software developer for LLNL. Some of my work is public and open source.
+Here are the stats...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downiec&count_private=true&show_icons=true&theme=cobalt)
 
+Here are my top languages used on Github projects... 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downiec)](https://github.com/anuraghazra/github-readme-stats)
+
+Wakatime Week Stats:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=downiec)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **downiec/downiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
