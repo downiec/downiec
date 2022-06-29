@@ -7,7 +7,7 @@ Here are the stats...
 
 Here are my top languages used on Github projects... 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downiec)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downiec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **downiec/downiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
