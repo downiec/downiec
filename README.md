@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working full time as a software developer for LLNL. Some of my work is public and open source, here are the stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downiec&count_private=true&show_icons=true&theme=cobalt)
+
 <!--
 **downiec/downiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
