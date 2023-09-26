@@ -3,7 +3,7 @@
 I'm currently working full time as a software developer for LLNL. Some of my work is public and open source.
 <br />Here are the stats...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downiec&count_private=true&show_icons=true&theme=cobalt)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downiec&show_icons=true&theme=cobalt)]
 
 Here are my top languages used on Github projects... 
 
